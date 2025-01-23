@@ -1,0 +1,26 @@
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.highlights-row {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.highlight {
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    flex: 1;
+    margin: 0 10px;
+    background: #f9f9f9;
+}
+
+.toggle-dropdown {
+    margin-bottom: 20px;
+}
